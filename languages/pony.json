@@ -1,0 +1,15 @@
+{
+    "language": "pony",
+    "compiled": true,
+    "compiler_exec": "ponyc",
+    "compiler_flags": [
+    ],
+    "exec": "",
+    "exec_flags": [
+    ],
+    "known_naming": [
+        "pony",
+        "ponylang"
+    ],
+    "file_extension": ".pony"
+}
